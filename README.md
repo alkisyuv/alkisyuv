@@ -9,7 +9,7 @@ Everything ships from **[triartleet](https://github.com/triartleet)** — human-
 <!-- START: REPO-PINS -->
 [![triartleet/etymd pin img](https://raw.githubusercontent.com/alkisyuv/alkisyuv/refs/heads/generated/repo_pin_imgs/0.svg)](https://github.com/triartleet/etymd) [![triartleet/peirad pin img](https://raw.githubusercontent.com/alkisyuv/alkisyuv/refs/heads/generated/repo_pin_imgs/1.svg)](https://github.com/triartleet/peirad) 
 [![triartleet/hyphos pin img](https://raw.githubusercontent.com/alkisyuv/alkisyuv/refs/heads/generated/repo_pin_imgs/2.svg)](https://github.com/triartleet/hyphos) [![triartleet/herkos pin img](https://raw.githubusercontent.com/alkisyuv/alkisyuv/refs/heads/generated/repo_pin_imgs/3.svg)](https://github.com/triartleet/herkos) 
-[![triartleet/gephyra pin img](https://raw.githubusercontent.com/alkisyuv/alkisyuv/refs/heads/generated/repo_pin_imgs/4.svg)](https://github.com/triartleet/gephyra) [![triartleet/diopsis pin img](https://raw.githubusercontent.com/alkisyuv/alkisyuv/refs/heads/generated/repo_pin_imgs/5.svg)](https://github.com/triartleet/diopsis) 
+[![triartleet/diopsis pin img](https://raw.githubusercontent.com/alkisyuv/alkisyuv/refs/heads/generated/repo_pin_imgs/4.svg)](https://github.com/triartleet/diopsis) 
 <!-- END: REPO-PINS -->
 
 ### editor extensions
