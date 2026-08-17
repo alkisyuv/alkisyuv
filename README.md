@@ -4,7 +4,7 @@
 
 Everything ships from **[triartleet](https://github.com/triartleet)** — human-first tools for homo delegans:
 
-### projects
+### Projects
 
 <!-- START: REPO-PINS -->
 [![triartleet/etymd pin img](https://raw.githubusercontent.com/alkisyuv/alkisyuv/refs/heads/generated/repo_pin_imgs/0.svg)](https://github.com/triartleet/etymd) [![triartleet/peirad pin img](https://raw.githubusercontent.com/alkisyuv/alkisyuv/refs/heads/generated/repo_pin_imgs/1.svg)](https://github.com/triartleet/peirad) 
@@ -12,19 +12,9 @@ Everything ships from **[triartleet](https://github.com/triartleet)** — human-
 [![triartleet/diopsis pin img](https://raw.githubusercontent.com/alkisyuv/alkisyuv/refs/heads/generated/repo_pin_imgs/4.svg)](https://github.com/triartleet/diopsis) 
 <!-- END: REPO-PINS -->
 
-### editor extensions
+### Editor Extensions
 
 One monorepo, one card per member — install from either marketplace.
 
-<table>
-  <tr>
-    <td><a href="https://marketplace.visualstudio.com/items?itemName=alkisyuv.claude-code-provider-switcher"><img src="https://raw.githubusercontent.com/triartleet/extensions/main/claude-code-provider-switcher/media/icon.png" width="72" alt="Claude Code Provider Switcher"></a></td>
-    <td><a href="https://marketplace.visualstudio.com/items?itemName=alkisyuv.explorer-follows-terminal"><img src="https://raw.githubusercontent.com/triartleet/extensions/main/explorer-follows-terminal/media/icon.png" width="72" alt="Explorer Follows Terminal"></a></td>
-    <td><a href="https://marketplace.visualstudio.com/items?itemName=alkisyuv.markdown-preview-style"><img src="https://raw.githubusercontent.com/triartleet/extensions/main/markdown-preview-style/media/icon.png" width="72" alt="Markdown Preview Style"></a></td>
-  </tr>
-  <tr>
-    <td align="center"><a href="https://marketplace.visualstudio.com/items?itemName=alkisyuv.claude-code-provider-switcher"><b>Claude Code Provider Switcher</b></a><br>per-project AI providers</td>
-    <td align="center"><a href="https://marketplace.visualstudio.com/items?itemName=alkisyuv.explorer-follows-terminal"><b>Explorer Follows Terminal</b></a><br>the tree follows the terminal</td>
-    <td align="center"><a href="https://marketplace.visualstudio.com/items?itemName=alkisyuv.markdown-preview-style"><b>Markdown Preview Style</b></a><br>comfortable reading, everywhere</td>
-  </tr>
-</table>
+[![Claude Code Provider Switcher](ext-cards/claude-code-provider-switcher.svg)](https://marketplace.visualstudio.com/items?itemName=alkisyuv.claude-code-provider-switcher) [![Explorer Follows Terminal](ext-cards/explorer-follows-terminal.svg)](https://marketplace.visualstudio.com/items?itemName=alkisyuv.explorer-follows-terminal) 
+[![Markdown Preview Style](ext-cards/markdown-preview-style.svg)](https://marketplace.visualstudio.com/items?itemName=alkisyuv.markdown-preview-style) 
