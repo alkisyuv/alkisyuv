@@ -16,6 +16,4 @@ jobs:
       - uses: profile-icons/github-profile-repo-pins@v1
         with:
           gh_api_token: ${{ secrets.GITHUB_TOKEN }}
-          gh_username: triartleet
-          num_repo_pins: "12"
-          repo_pin_order: pushedAt
+          repo_names_exclusive: triartleet/etymd,triartleet/peirad,triartleet/hyphos,triartleet/herkos,triartleet/gephyra,triartleet/diopsis
