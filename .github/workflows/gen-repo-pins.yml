@@ -18,4 +18,4 @@ jobs:
           gh_api_token: ${{ secrets.GITHUB_TOKEN }}
           gh_username: triartleet
           num_repo_pins: "12"
-          repo_pin_order: pushed_at
+          repo_pin_order: pushedAt
