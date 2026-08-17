@@ -12,8 +12,3 @@ Everything ships from **[triartleet](https://github.com/triartleet)** — human-
 [![triartleet/diopsis pin img](https://raw.githubusercontent.com/alkisyuv/alkisyuv/refs/heads/generated/repo_pin_imgs/4.svg)](https://github.com/triartleet/diopsis) 
 <!-- END: REPO-PINS -->
 
-### Editor Extensions
-
-One monorepo, one card per member — install from either marketplace.
-
-<p><a href="https://marketplace.visualstudio.com/items?itemName=alkisyuv.claude-code-provider-switcher"><img src="ext-cards/claude-code-provider-switcher.svg" width="266" alt="alkisyuv/claude-code-provider-switcher"></a> <a href="https://marketplace.visualstudio.com/items?itemName=alkisyuv.explorer-follows-terminal"><img src="ext-cards/explorer-follows-terminal.svg" width="266" alt="alkisyuv/explorer-follows-terminal"></a> <a href="https://marketplace.visualstudio.com/items?itemName=alkisyuv.markdown-preview-style"><img src="ext-cards/markdown-preview-style.svg" width="266" alt="alkisyuv/markdown-preview-style"></a></p>
