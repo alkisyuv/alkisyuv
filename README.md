@@ -16,5 +16,4 @@ Everything ships from **[triartleet](https://github.com/triartleet)** — human-
 
 One monorepo, one card per member — install from either marketplace.
 
-[![Claude Code Provider Switcher](ext-cards/claude-code-provider-switcher.svg)](https://marketplace.visualstudio.com/items?itemName=alkisyuv.claude-code-provider-switcher) [![Explorer Follows Terminal](ext-cards/explorer-follows-terminal.svg)](https://marketplace.visualstudio.com/items?itemName=alkisyuv.explorer-follows-terminal) 
-[![Markdown Preview Style](ext-cards/markdown-preview-style.svg)](https://marketplace.visualstudio.com/items?itemName=alkisyuv.markdown-preview-style) 
+<p><a href="https://marketplace.visualstudio.com/items?itemName=alkisyuv.claude-code-provider-switcher"><img src="ext-cards/claude-code-provider-switcher.svg" width="266" alt="alkisyuv/claude-code-provider-switcher"></a> <a href="https://marketplace.visualstudio.com/items?itemName=alkisyuv.explorer-follows-terminal"><img src="ext-cards/explorer-follows-terminal.svg" width="266" alt="alkisyuv/explorer-follows-terminal"></a> <a href="https://marketplace.visualstudio.com/items?itemName=alkisyuv.markdown-preview-style"><img src="ext-cards/markdown-preview-style.svg" width="266" alt="alkisyuv/markdown-preview-style"></a></p>
